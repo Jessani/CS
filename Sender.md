@@ -1,3 +1,4 @@
+# heyo its jade
 from microbit import *
 import random
 import radio
