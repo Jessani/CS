@@ -3,7 +3,7 @@ import random
 import radio
 
 radio.on()
-
+#hello
 # Sends a string with a % chance of failure
 # Returns whether the message was sent succesfully
 # Send a message with error
